@@ -1,6 +1,3 @@
-/**
- * infokrmationawd djiawd
- */
 package com.example;
 
 /**
