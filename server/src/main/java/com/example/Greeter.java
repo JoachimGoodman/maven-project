@@ -12,12 +12,12 @@ public class Greeter {
 
   }
 
-  /** awdijojdawiddna wdna wdknadn awndk nawdon akwdn a
-   * then return something
+  /** awdijojdawiddna wdna wdknadn awndk nawdon akwdn a.
+   * then return something.
    * @param someone
-   * A paramateret thing
+   * A paramateret thing.
    * @return String = Hello
-   * comibtes skeofsen aoiwdj a
+   * comibtes skeofsen aoiwdj a.
    */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
