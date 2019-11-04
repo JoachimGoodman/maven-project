@@ -17,7 +17,7 @@ public class Greeter {
    * @param someone
    * A paramateret thing.
    * @return String = Hello
-   * comibtes skeofsen aoiwdj a.
+   * comibtes skeofsen aoiwdj a. wda
    */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
